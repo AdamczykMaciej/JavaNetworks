@@ -1,0 +1,12 @@
+<Context docBase="D:\PJATK Informatyka\2 rok\TPO\Project5\build">
+<!-- has to be named context.xml -->
+  <Resource name="jdbc/mydb"
+            auth="Container" 
+            type="javax.sql.DataSource"
+            description="Database" 
+            driverClassName="com.mysql.jdbc.Driver"
+            url="jdbc:mysql://localhost:3305/mydb"
+            username="root"
+            password="root"
+            maxActive="20" /> 
+</Context>
