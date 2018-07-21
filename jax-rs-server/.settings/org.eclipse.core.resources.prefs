@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//asynchronous/eu/glowacki/jaxrs/asynchronous/SampleAsynchronous.java=UTF-8
+encoding//asynchronous/eu/glowacki/jaxrs/asynchronous/task/AsynchronousTask.java=UTF-8
+encoding//chunked/eu/glowacki/jaxrs/chunked/SampleChunked.java=UTF-8
+encoding//delayed/eu/glowacki/jaxrs/delayed/CalculatorDelayed.java=UTF-8
+encoding//sample/eu/glowacki/jaxrs/Add.java=UTF-8
+encoding//sample/eu/glowacki/jaxrs/ApplicationConfiguration.java=UTF-8
+encoding//sample/eu/glowacki/jaxrs/Calculator.java=UTF-8
+encoding//sample/eu/glowacki/jaxrs/Sample.java=UTF-8

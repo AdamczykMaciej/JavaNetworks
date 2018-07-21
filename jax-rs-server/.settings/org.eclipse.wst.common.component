@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="jax-rs-server-1.0.0">
+                
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+                
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/delayed"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/sample"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/chunked"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/common"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/asynchronous"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/person"/>
+                
+        <property name="context-root" value="jax-rs-server"/>
+                
+        <property name="java-output-path" value="/jax-rs-server/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
